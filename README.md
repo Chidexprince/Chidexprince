@@ -50,7 +50,7 @@
 </a>
 
 Chidexprince
-## 5. Profile View Counter
+## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Chidexprince)
 <!--
 **Chidexprince/Chidexprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
