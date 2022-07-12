@@ -49,7 +49,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chidexprince&theme=radical&layout=compact" />
 </a>
 
-Chidexprince
 ## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Chidexprince)
 <!--
